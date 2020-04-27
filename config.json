@@ -1,0 +1,6 @@
+{
+  "filterEnabled": true,
+  "folderFilter": ["node_modules", ".vs", "bin", "Debug"],
+  "extensionFilter": [],
+  "ignoreUnderscore": true
+}
